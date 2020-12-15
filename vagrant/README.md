@@ -1,1 +1,1 @@
-# cheatsheet
+# VAGRANT cheatsheet
